@@ -42,3 +42,21 @@ nav {
     background-color: #04AA6D;
     color: white;
   }
+  
+  section {
+    border-top: 1px solid #bbb;
+  }
+
+  .aboutimg {
+    float: right;
+    margin: 0 24px 24px 24px;
+    height: 150px;
+    width: 150px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #669bbc;
+    color: #003049;
+  }
